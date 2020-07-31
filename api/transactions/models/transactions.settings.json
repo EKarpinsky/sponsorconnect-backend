@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transactions",
+  "info": {
+    "name": "Transactions"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "scheduled_date": {
+      "type": "date"
+    },
+    "transaction_id": {
+      "type": "uid"
+    },
+    "in_progress": {
+      "type": "boolean"
+    },
+    "created_date": {
+      "type": "datetime"
+    }
+  }
+}
