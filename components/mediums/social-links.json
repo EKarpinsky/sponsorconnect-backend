@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_mediums_social_links",
+  "info": {
+    "name": "social_links",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "youtube": {
+      "type": "json"
+    },
+    "facebook": {
+      "type": "json"
+    }
+  }
+}

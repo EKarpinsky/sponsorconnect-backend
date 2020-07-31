@@ -20,6 +20,11 @@
     },
     "created_date": {
       "type": "datetime"
+    },
+    "users": {
+      "via": "transactions",
+      "plugin": "users-permissions",
+      "collection": "user"
     }
   }
 }

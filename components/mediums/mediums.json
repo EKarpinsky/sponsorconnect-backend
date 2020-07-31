@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_mediums_mediums",
+  "info": {
+    "name": "mediums",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "videos": {
+      "type": "boolean"
+    },
+    "podcasts": {
+      "type": "boolean"
+    },
+    "streams": {
+      "type": "boolean"
+    },
+    "posts": {
+      "type": "boolean"
+    }
+  }
+}
