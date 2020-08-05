@@ -70,12 +70,17 @@
     "mediums": {
       "type": "component",
       "repeatable": true,
-      "component": "mediums.mediums"
+      "component": "user-meta.mediums"
     },
     "social_links": {
       "type": "component",
       "repeatable": true,
-      "component": "mediums.social-links"
+      "component": "user-meta.social-links"
+    },
+    "test": {
+      "type": "component",
+      "repeatable": true,
+      "component": "user-meta.test"
     }
   }
 }
